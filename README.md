@@ -7,7 +7,7 @@
 <img  align="right" alt = "Me-Coding" width = "400" src = "https://im5.ezgif.com/tmp/ezgif-5-5eae44c6b1.jpg">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-chugh&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-chugh" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/955eb03756fd4efc556d5083cca4b09cd1f42945501459d119d8b30ce9100ca1/68747470733a2f2f696d352e657a6769662e636f6d2f746d702f657a6769662d352d356561653434633662312e6a7067" alt="aniket-chugh" /> </p>
 
 - 🔭 I’m currently working on **Chatting App (Jetpack compose)**
 
