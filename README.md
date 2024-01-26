@@ -3,10 +3,13 @@
 <h1 align="center">Hi 👋, I'm Aniket Chugh</h1>
 <h3 align="center">A passionate Android App developer from India (Jetpack compose)</h3>
 
+<img align="right" alt = "Me-Coding" width = "400" src = "https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
-<img  align="right" alt = "Me-Coding" width = "400" src = "[https://im5.ezgif.com/tmp/ezgif-5-5eae44c6b1.jpg](https://camo.githubusercontent.com/955eb03756fd4efc556d5083cca4b09cd1f42945501459d119d8b30ce9100ca1/68747470733a2f2f696d352e657a6769662e636f6d2f746d702f657a6769662d352d356561653434633662312e6a7067)">
+
+<img align="right" alt = "Me-Coding" width = "400" src = "https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-chugh&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-chugh" /> </p>
 
 - 🔭 I’m currently working on **Chatting App (Jetpack compose)**
 
