@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-chugh&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-chugh" /> </p>
 
-- 🔭 I’m currently working on **Chatting App (Jetpack compose)**
+- 🔭 I’m currently working on **Ecommerce App (Jetpack compose)**
 
 - 🌱 I’m currently learning **App development from udemy**
 
