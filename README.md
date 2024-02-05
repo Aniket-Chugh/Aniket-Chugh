@@ -38,7 +38,9 @@
 
 <h2>Hire Me - </h2>
 <h3>App Developer (Kotlin and jetpack compose)</h3>
-<h4>Here's my fiverr profile - <a href = " https://www.fiverr.com/aniket_chugh">Hire me on fiverr</a> </h4>
+<h4>Here's my fiverr profile</h4>
+
+<a href="https://www.fiverr.com/aniket_chugh" target="_blank" rel="noreferrer">>Hire me on fiverr</a>
 
 
 <h3 align="left">Support:</h3>
