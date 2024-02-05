@@ -36,29 +36,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
-<br>
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/aniket_chugh rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-c98c55b3-d74d-4db8-9a5a-e2c22cb0fc59' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >aniket_chugh</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Hello, I'm Aniket Chugh, a CSE student with 1.6  years in mobile app development and 2 years in web development. As an Expert Android app developer, I've crafted numerous user-friendly applications. Proficient in Kotlin, Android Studio, Jetpack Compose and Web development. I've created impactful apps. Skilled in Firebase, I can design secure login/signup pages. Also I keep learning continuously, and I spend maximum of my day creating projects to become an expert in app development. Let's collaborate to bring your ideas to life and achieve your software goals!
-
-
-
-
-</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-c98c55b3-d74d-4db8-9a5a-e2c22cb0fc59' src='https://widgets.fiverr.com/api/v1/seller/aniket_chugh?widget_id=c98c55b3-d74d-4db8-9a5a-e2c22cb0fc59' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
-
-<br>
+<h2>Hire Me - </h2>
+<h3>App Developer (Kotlin and jetpack compose)</h3>
+<h4>Here's my fiverr profile - <a href = " https://www.fiverr.com/aniket_chugh">Hire me on fiverr</a> </h4>
 
 
 <h3 align="left">Support:</h3>
