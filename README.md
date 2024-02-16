@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Chugh</h1>
 <h3 align="center">A passionate Android App developer from India (Jetpack compose)</h3>
 
-![UC-4ca9ca1a-dc92-4a44-8463-6d3a747d4b4d](https://github.com/Aniket-Chugh/Aniket-Chugh/assets/149312276/36f3dc46-062a-4feb-971a-f401762aeb42)
+<img src="https://github.com/Aniket-Chugh/Aniket-Chugh/raw/main/assets/149312276/36f3dc46-062a-4feb-971a-f401762aeb42.jpg" alt="Description of the image" align="right" width="200"/>
 
 
 
