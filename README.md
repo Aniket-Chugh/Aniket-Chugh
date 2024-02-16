@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Chugh</h1>
 <h3 align="center">A passionate Android App developer from India (Jetpack compose)</h3>
 
-<img src="https://raw.githubusercontent.com/Aniket-Chugh/Aniket-Chugh/main/assets/149312276/36f3dc46-062a-4feb-971a-f401762aeb42.jpg" alt="Description of the image" align="right" width="200"/>
-
 
 
 - 🔭 I’m currently working on **Ecommerce App (Jetpack compose)**
@@ -20,6 +18,10 @@
 - 💬 Ask me about **Kotlin , Jetpack compose and fireBase**
 
 - 📫 reach me through **oneaniket13@gmail.com**
+
+
+ ![UC-4ca9ca1a-dc92-4a44-8463-6d3a747d4b4d](https://github.com/Aniket-Chugh/Aniket-Chugh/assets/149312276/36f3dc46-062a-4feb-971a-f401762aeb42)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
