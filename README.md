@@ -8,7 +8,8 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-chugh&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-chugh" /> </p>
+<p align="left"> <img src="![UC-4ca9ca1a-dc92-4a44-8463-6d3a747d4b4d](https://github.com/Aniket-Chugh/Aniket-Chugh/assets/149312276/142ff73b-49b8-4198-b773-8b71517f14b4)
+" alt="aniket-chugh" /> </p>
 
 - 🔭 I’m currently working on **Ecommerce App (Jetpack compose)**
 
