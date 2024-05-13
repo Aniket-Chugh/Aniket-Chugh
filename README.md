@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **Ecommerce App (Jetpack compose)**
+- 🔭 I’m currently working on **Making Javascript Projects**
 
-- 🌱 I’m currently learning **App development from udemy**
+- 🌱 I’m currently learning **App development from udemy and Javascript !!**
 
-- 👯 I’m looking to collaborate on **App Development**
+- 👯 I’m looking to collaborate on **App Development and website development**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/aniket_chugh](https://linktr.ee/aniket_chugh)
 
