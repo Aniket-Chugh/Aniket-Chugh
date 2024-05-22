@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aniket Chugh</h1>
-<h3 align="center">A passionate Android App developer from India (Jetpack compose)</h3>
+<h3 align="center">A passionate Btech student from India</h3>
 
 
 
