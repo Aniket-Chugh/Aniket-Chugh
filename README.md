@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/aniket_chugh](https://linktr.ee/aniket_chugh)
 
-- 📝 I regularly write articles on [https://aniket-chugh.medium.com/](https://aniket-chugh.medium.com/)
+- 📝 I regularly write articles on https://javapencil.blogspot.com/
 
 - 💬 Ask me about **Kotlin , Jetpack compose , JAVA , C , C++**
 
