@@ -22,6 +22,16 @@
 - 📫 reach me through **oneaniket13@gmail.com**
 
 
+<!-- Example of an invite card you can use in your projects -->
+<div style="background-color: #23272a; border-radius: 10px; padding: 20px; text-align: center; color: #ffffff; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); max-width: 400px; margin: 20px auto; font-family: 'Arial', sans-serif;">
+    <img src="https://via.placeholder.com/150" alt="Discord Logo" style="width: 100px; height: auto; margin-bottom: 20px;">
+    <h1 style="margin: 0 0 10px; font-size: 24px;">Join Our Discord Server!</h1>
+    <p style="margin: 0 0 20px; font-size: 16px; color: #b9bbbe;">Connect with our community, participate in discussions, and stay updated with the latest news.</p>
+    <a href="https://discord.gg/jQfytVFz" style="background-color: #7289da; border: none; color: white; padding: 10px 20px; font-size: 16px; text-decoration: none; border-radius: 5px; transition: background-color 0.3s ease;">Join Now</a>
+</div>
+
+
+
  ![UC-4ca9ca1a-dc92-4a44-8463-6d3a747d4b4d](https://github.com/Aniket-Chugh/Aniket-Chugh/assets/149312276/36f3dc46-062a-4feb-971a-f401762aeb42)
 
 
