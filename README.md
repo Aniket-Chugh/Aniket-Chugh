@@ -34,8 +34,7 @@ Connect with our community, participate in discussions, and stay updated with th
 
 [https://discord.gg/jQfytVFz](https://discord.gg/jQfytVFz)
 
-```html
-<!-- Example of an invite card you can use in your projects -->
+
 <div style="background-color: #23272a; border-radius: 10px; padding: 20px; text-align: center; color: #ffffff; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); max-width: 400px; margin: 20px auto; font-family: 'Arial', sans-serif;">
     <img src="https://via.placeholder.com/150" alt="Discord Logo" style="width: 100px; height: auto; margin-bottom: 20px;">
     <h1 style="margin: 0 0 10px; font-size: 24px;">Join Our Discord Server!</h1>
