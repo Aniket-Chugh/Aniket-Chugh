@@ -21,7 +21,7 @@
 
 - 📫 reach me through **oneaniket13@gmail.com**
 
-# Doing a 365 days chalenge learning java for DSA and then spring boot -->
+# Doing a 365 days challenge learning java for DSA and then spring boot -->
 ## see all the codes and updates here : - 
 
 https://github.com/stars/Aniket-Chugh/lists/java-365-codes
