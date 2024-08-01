@@ -21,12 +21,6 @@
 
 - 📫 reach me through **oneaniket13@gmail.com**
 
-# Doing a 365 days challenge learning java for DSA and then spring boot -->
-## see all the codes and updates here : - 
-
-https://github.com/stars/Aniket-Chugh/lists/java-365-codes
-
-
 # Welcome to Our Discord Server!
 
 ![channels4_profile](https://github.com/Aniket-Chugh/Aniket-Chugh/assets/149312276/3e232472-25b2-488b-90d0-ee6fae3a77e3)
