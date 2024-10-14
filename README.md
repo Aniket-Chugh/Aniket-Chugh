@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **JAVA FOR DSA**
 
-- 👯 I’m looking to collaborate on **App Development and website development(JAVA AND KOTLIN)**
+- 👯 I’m looking to collaborate on **website development(React and tailwind)**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/aniket_chugh](https://linktr.ee/aniket_chugh)
 
 - 📝 I regularly write articles on https://javapencil.blogspot.com/
 
-- 💬 Ask me about **Kotlin , Jetpack compose , JAVA , C , C++**
+- 💬 Ask me about **Jetpack compose , JAVA  , C++ , Reactjs , Tailwind , firebase*
 
 - 💗 love coding as to explore the world and earn by freelancing. just explore every part of the world without doing the 9 to 5 job.
 
