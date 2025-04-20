@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on https://javapencil.blogspot.com/
 
-- 💬 Ask me about **Jetpack compose , JAVA  , C++ , Reactjs , Tailwind , firebase*
+- 💬 Ask me about **Jetpack compose , JAVA  , Reactjs , Tailwind , firebase , MYSQL , Prisma , node.js , express.js , Next.js*
 
 - 💗 love coding as to explore the world and earn by freelancing. just explore every part of the world without doing the 9 to 5 job.
 
