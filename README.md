@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **JAVA DSA**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **JAVA FOR DSA**
+- 🌱 I’m currently learning **Next.js and DevOps**
 
-- 👯 I’m looking to collaborate on **website development(React and tailwind)**
+- 👯 I’m looking to collaborate on **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/aniket_chugh](https://linktr.ee/aniket_chugh)
 
