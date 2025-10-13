@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/aniket_chugh11" target="blank"><img src="https://img.shields.io/twitter/follow/aniket_chugh11?logo=twitter&style=for-the-badge" alt="aniket_chugh11" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps and Ai integration in Web Apps**
+- 🌱 I’m currently learning **DevOps and Ai integration in Web Apps and Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aniket-chugh/](https://www.linkedin.com/in/aniket-chugh/)
 
 - 📝 I regularly write articles on [https://medium.com/@aniket-chugh](https://medium.com/@aniket-chugh)
 
-- 💬 Ask me about **Mern Stack , Mysql workbench , DSA JAVA**
+- 💬 Ask me about **Mern Stack , Mysql workbench , DSA JAVA , Spring Boot with React.js **
 
 - 📫 How to reach me **oneaniket13@gmail.com**
 
