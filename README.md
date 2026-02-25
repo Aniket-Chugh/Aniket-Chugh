@@ -45,20 +45,20 @@ I focus on speed, reliability, and business value. Here is what I build:
 
 ### 📊 GitHub Stats & LeetCode Performance
 
-<p align="center">
-  <a href="https://leetcode.com/u/aniketchugh/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/aniketchugh?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniket-chugh&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket-chugh&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/aniketchugh?theme=dark&font=Fira%20Code&ext=activity)](https://leetcode.com/u/aniketchugh/)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-chugh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<br>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket-Chugh&show_icons=true&locale=en&theme=tokyonight&hide_border=true)](https://github.com/Aniket-Chugh)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Aniket-Chugh&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Aniket-Chugh)
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniket-Chugh&theme=tokyonight&hide_border=true)](https://github.com/Aniket-Chugh)
+
+</div>
 
 ---
 
