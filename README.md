@@ -51,9 +51,8 @@ I focus on speed, reliability, and business value. Here is what I build:
 
 <br>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniket-Chugh&show_icons=true&locale=en&theme=tokyonight&hide_border=true)](https://github.com/Aniket-Chugh)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Aniket-Chugh&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Aniket-Chugh)
-
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aniket-Chugh&theme=tokyonight)](https://github.com/Aniket-Chugh)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aniket-Chugh&theme=tokyonight)](https://github.com/Aniket-Chugh)
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniket-Chugh&theme=tokyonight&hide_border=true)](https://github.com/Aniket-Chugh)
