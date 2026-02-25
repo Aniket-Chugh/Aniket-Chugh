@@ -1,5 +1,8 @@
-<h1 align="center">Aniket Chugh</h1>
-<h3 align="center">Software Engineer | Backend Developer | System Architecture</h3>
+<h1 align="center">Hi, I'm Aniket Chugh <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="30px"></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Architecture;Full+Stack+Development;Java+%7C+Spring+Boot+%7C+Next.js" alt="Typing SVG" />
+</p>
 
 <div align="center">
   <a href="https://github.com/Aniket-Chugh">
@@ -9,37 +12,45 @@
 
 ---
 
-### 💻 Professional Profile
+### ⚡ Engineering Focus & Expertise
 
-* **Who I am:** A Software Engineer in India building production-ready web apps.
-* **What I do:** Backend Development, REST APIs, and System Architecture.
-* **Client Work:** I build complete software projects for clients, handling everything from database design to final deployment.
-* **My Goal:** To build fast, reliable systems that handle heavy traffic and reduce server costs.
+I am a **Software Engineer** based in India, specializing in **Backend Development**, **REST APIs**, and **System Architecture**. I engineer high-performance, fault-tolerant web applications for client projects, managing the complete Software Development Life Cycle (SDLC).
 
----
+### 🔥 What I am Coding Right Now
 
-### 🚀 Production Experience
+Consistency is everything. Here is what is running on my local server today:
 
-I focus on speed, reliability, and business value. Here is what I build:
-
-* **High-Speed Backend (Shortly Pro):** Built a URL Shortener with Next.js, Node.js, and MySQL. Used Socket.io for live tracking with **sub-second latency**.
-* **Business Automation (Samvaad):** Created an e-governance app to process Voice, Text, and Image data. Wrote automated scripts that **cut manual work by 40%**.
-* **Fast Systems (Disaster Tracker):** Built a live map app with React.js. Optimized the server for a **1500ms response time** during live GPS tracking.
-* **Core Skills:** Strong in **Core Java**, **Data Structures & Algorithms (DSA)**, and Object-Oriented Design to write memory-efficient code.
+* 💬 **Building:** [DarkChatRooms](https://github.com/Aniket-Chugh/DarkChatRooms) — Engineering a sleek, low-latency chat application.
+* ⚙️ **Architecting:** [Node.js Backend Practice](https://github.com/Aniket-Chugh/nodejs-backend-practice) — Daily backend drills to master server scaling and APIs.
+* 🧠 **Problem Solving:** [Daily LeetCode Solutions](https://github.com/Aniket-Chugh/Leetcode-solution) — Pushing code daily to keep my algorithmic thinking razor-sharp.
+* 🧩 **Experimenting:** [Java & JS CodeShare](https://github.com/Aniket-Chugh/CodeShare-java-and-js) — Writing tricky, edge-case code that pushes language mechanics and tricks the brain.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Production Experience & Impact
+
+I build systems optimized for speed, reliability, and business value:
+
+* **High-Throughput Backend (Shortly Pro):** Engineered a scalable URL Shortener using **Next.js, Node.js, and MySQL**. Implemented Socket.io to achieve **sub-second latency** for real-time tracking.
+* **Business Automation (Samvaad):** Architected a multi-modal e-governance platform. Deployed automated workflows that successfully **reduced manual administrative overhead by 40%**.
+* **Low-Latency Systems (Disaster Tracker):** Built a geo-tracking platform with **React.js**. Optimized server-side logic for a consistent **1500ms response time** under load.
+* **Core Fundamentals:** Deep expertise in **Core Java**, **Data Structures & Algorithms (DSA)**, and **Object-Oriented Design (OOD)**.
+
+---
+
+### 🛠️ Technical Arsenal
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,linux,react,nextjs,tailwind,redux,js,mysql,postgres,mongodb,supabase,git&perline=5" alt="Tech Stack Grid" />
-  </a>
+  <p><strong>Backend Architecture & Databases</strong></p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,postgres,mongodb,supabase&perline=8" alt="Backend Stack" />
+  <br><br>
+  <p><strong>Frontend Development & DevOps</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,js,linux,git,postman&perline=8" alt="Frontend Stack" />
 </div>
 
 ---
 
-### 📊 GitHub Stats & LeetCode Performance
+### 📊 Performance & Code Analytics
 
 <div align="center">
   <table style="border: none; background-color: transparent;">
@@ -74,16 +85,26 @@ I focus on speed, reliability, and business value. Here is what I build:
 
 ---
 
-<h3 align="center">Connect & Contact</h3>
+### 🌌 Beyond the Code
+
+Software engineering is not just a job for me; it is a mindset. When I step away from the keyboard, I am:
+
+* 📚 **Reading Speculative Fiction:** Diving into hard sci-fi (like Isaac Asimov and Arthur C. Clarke) to imagine the future of technology.
+* 🌍 **Traveling:** Exploring diverse geographies to disconnect and recharge.
+* 💡 **Geeking Out:** Breaking down complex system design architecture just for fun.
+
+---
+
+<h3 align="center">Connect & Collaborate</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/aniket-chugh/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/aniket_chugh11" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:oneaniket13@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
