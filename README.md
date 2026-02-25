@@ -12,22 +12,22 @@
 
 ---
 
-### ⚡ Engineering Focus & Expertise
+### Engineering Focus & Expertise
 
 I am a **Software Engineer** based in India, specializing in **Backend Development**, **REST APIs**, and **System Architecture**. I engineer high-performance, fault-tolerant web applications for client projects, managing the complete Software Development Life Cycle (SDLC).
 
-### 🔥 What I am Coding Right Now
+### What I am Coding Right Now
 
 Consistency is everything. Here is what is running on my local server today:
 
-* 💬 **Building:** [DarkChatRooms](https://github.com/Aniket-Chugh/DarkChatRooms) — Engineering a sleek, low-latency chat application.
-* ⚙️ **Architecting:** [Node.js Backend Practice](https://github.com/Aniket-Chugh/nodejs-backend-practice) — Daily backend drills to master server scaling and APIs.
-* 🧠 **Problem Solving:** [Daily LeetCode Solutions](https://github.com/Aniket-Chugh/Leetcode-solution) — Pushing code daily to keep my algorithmic thinking razor-sharp.
-* 🧩 **Experimenting:** [Java & JS CodeShare](https://github.com/Aniket-Chugh/CodeShare-java-and-js) — Writing tricky, edge-case code that pushes language mechanics and tricks the brain.
+*  **Building:** [DarkChatRooms](https://github.com/Aniket-Chugh/DarkChatRooms) — Engineering a sleek, low-latency chat application.
+*  **Architecting:** [Node.js Backend Practice](https://github.com/Aniket-Chugh/nodejs-backend-practice) — Daily backend drills to master server scaling and APIs.
+*  **Problem Solving:** [Daily LeetCode Solutions](https://github.com/Aniket-Chugh/Leetcode-solution) — Pushing code daily to keep my algorithmic thinking razor-sharp.
+*  **Experimenting:** [Java & JS CodeShare](https://github.com/Aniket-Chugh/CodeShare-java-and-js) — Writing tricky, edge-case code that pushes language mechanics and tricks the brain.
 
 ---
 
-### 🚀 Production Experience & Impact
+###  Production Experience & Impact
 
 I build systems optimized for speed, reliability, and business value:
 
@@ -38,7 +38,7 @@ I build systems optimized for speed, reliability, and business value:
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 <div align="center">
   <p><strong>Backend Architecture & Databases</strong></p>
@@ -50,7 +50,7 @@ I build systems optimized for speed, reliability, and business value:
 
 ---
 
-### 📊 Performance & Code Analytics
+### Performance & Code Analytics
 
 <div align="center">
   <table style="border: none; background-color: transparent;">
@@ -85,13 +85,13 @@ I build systems optimized for speed, reliability, and business value:
 
 ---
 
-### 🌌 Beyond the Code
+### Beyond the Code
 
 Software engineering is not just a job for me; it is a mindset. When I step away from the keyboard, I am:
 
-* 📚 **Reading Speculative Fiction:** Diving into hard sci-fi (like Isaac Asimov and Arthur C. Clarke) to imagine the future of technology.
-* 🌍 **Traveling:** Exploring diverse geographies to disconnect and recharge.
-* 💡 **Geeking Out:** Breaking down complex system design architecture just for fun.
+* **Reading Speculative Fiction:** Diving into hard sci-fi (like Isaac Asimov and Arthur C. Clarke) to imagine the future of technology.
+* **Traveling:** Exploring diverse geographies to disconnect and recharge.
+*  **Geeking Out:** Breaking down complex system design architecture just for fun.
 
 ---
 
