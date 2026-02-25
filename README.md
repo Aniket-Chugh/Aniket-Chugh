@@ -1,9 +1,11 @@
 <h1 align="center">Aniket Chugh</h1>
 <h3 align="center">Software Engineer | Backend Developer | System Architecture</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=aniket-chugh&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" /> 
-</p>
+<div align="center">
+  <a href="https://github.com/Aniket-Chugh">
+    <img src="https://komarev.com/ghpvc/?username=Aniket-Chugh&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </a>
+</div>
 
 ---
 
@@ -29,41 +31,52 @@ I focus on speed, reliability, and business value. Here is what I build:
 
 ### 🛠️ Tech Stack & Tools
 
-**Backend & Infrastructure** <br>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,linux" alt="Backend Stack" />
-<br><br>
-
-**Frontend & Client-Side** <br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,js" alt="Frontend Stack" />
-<br><br>
-
-**Databases & Deployment** <br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,git" alt="Database Stack" />
-<br><br>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,linux,react,nextjs,tailwind,redux,js,mysql,postgres,mongodb,supabase,git&perline=5" alt="Tech Stack Grid" />
+  </a>
+</div>
 
 ---
 
 ### 📊 GitHub Stats & LeetCode Performance
 
 <div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aniketchugh?theme=dark&font=Fira%20Code&ext=activity)](https://leetcode.com/u/aniketchugh/)
-
-<br>
-
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aniket-Chugh&theme=tokyonight)](https://github.com/Aniket-Chugh)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aniket-Chugh&theme=tokyonight)](https://github.com/Aniket-Chugh)
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniket-Chugh&theme=tokyonight&hide_border=true)](https://github.com/Aniket-Chugh)
-
+  <table style="border: none; background-color: transparent;">
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://leetcode.com/u/aniketchugh/">
+          <img src="https://leetcard.jacoblin.cool/aniketchugh?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Aniket-Chugh">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aniket-Chugh&theme=tokyonight" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Aniket-Chugh">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aniket-Chugh&theme=tokyonight" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/Aniket-Chugh">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket-Chugh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <h3 align="center">Connect & Contact</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/aniket-chugh/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
@@ -73,4 +86,4 @@ I focus on speed, reliability, and business value. Here is what I build:
   <a href="mailto:oneaniket13@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-</p>
+</div>
