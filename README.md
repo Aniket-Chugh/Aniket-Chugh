@@ -85,6 +85,22 @@ I build systems optimized for speed, reliability, and business value:
 
 ---
 
+### Community Feedback | Reviews for Aniket Chugh
+
+If my **open-source projects, software engineering work, technical blogs, or developer contributions** have helped you in any way, you are welcome to share your experience.
+
+I truly value feedback from the **developer community, tech professionals, and collaborators**. Genuine reviews help highlight the real-world impact of my work in **software engineering, backend development, system design, and full-stack development**.
+
+You can scan the **Google Review QR code below** to leave a review for **Software Engineer Aniket Chugh** on Google Business Profile.
+
+<img width="228" height="228" alt="Google Review - Aniket Chugh Software Engineer" src="https://github.com/user-attachments/assets/615f9af9-e28d-4b38-81cf-bccc6d01c51c" />
+
+Your feedback supports my mission of continuously **building high-quality software, contributing to open-source, solving real-world problems with code, and sharing knowledge with the global tech community**.
+
+I remain deeply committed to **technology, engineering excellence, and long-term contributions to the software development ecosystem.**
+
+---
+
 ### Beyond the Code
 
 Software engineering is not just a job for me; it is a mindset. When I step away from the keyboard, I am:
