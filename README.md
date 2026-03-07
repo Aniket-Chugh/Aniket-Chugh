@@ -93,7 +93,8 @@ I truly value feedback from the **developer community, tech professionals, and c
 
 You can scan the **Google Review QR code below** to leave a review for **Software Engineer Aniket Chugh** on Google Business Profile.
 
-<img width="228" height="228" alt="Google Review - Aniket Chugh Software Engineer" src="https://github.com/user-attachments/assets/615f9af9-e28d-4b38-81cf-bccc6d01c51c" />
+
+<img width="228" height="228"  alt="Google Review - Aniket Chugh Software Engineer" src="https://github.com/user-attachments/assets/b2ca94f0-43ed-4986-9acb-249d2b4b8709" />
 
 Your feedback supports my mission of continuously **building high-quality software, contributing to open-source, solving real-world problems with code, and sharing knowledge with the global tech community**.
 
