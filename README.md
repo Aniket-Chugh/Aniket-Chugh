@@ -80,6 +80,13 @@ I build systems optimized for speed, reliability, and business value:
         </a>
       </td>
     </tr>
+    <tr>
+  <td colspan="2" align="center">
+    <a href="https://codeforces.com/profile/oneaniket13">
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=oneaniket13&theme=github_dark" alt="Codeforces Stats" />
+    </a>
+  </td>
+</tr>
   </table>
 </div>
 
