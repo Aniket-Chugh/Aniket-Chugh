@@ -21,6 +21,7 @@ I am a **Software Engineer** based in India, specializing in **Backend Developme
 Consistency is everything. Here is what is running on my local server today:
 
 *  **Building:** [DarkChatRooms](https://github.com/Aniket-Chugh/DarkChatRooms) — Engineering a sleek, low-latency chat application.
+*  Making 15+ java core dsa projects to learn java internally and use them in real world + coding rounds.... (dailypushing code to github)
 *  **Architecting:** [Node.js Backend Practice](https://github.com/Aniket-Chugh/nodejs-backend-practice) — Daily backend drills to master server scaling and APIs.
 *  **Problem Solving:** [Daily LeetCode Solutions](https://github.com/Aniket-Chugh/Leetcode-solution) — Pushing code daily to keep my algorithmic thinking razor-sharp.
 *  **Experimenting:** [Java & JS CodeShare](https://github.com/Aniket-Chugh/CodeShare-java-and-js) — Writing tricky, edge-case code that pushes language mechanics and tricks the brain.
